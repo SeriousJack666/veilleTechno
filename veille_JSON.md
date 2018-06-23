@@ -37,10 +37,10 @@ from radio/television to Javascript's development to Paypal(present)
 |implement error handling|
 ***
 #### Usefool stuff 
-#####Serializers/De-serializers
+##### Serializers/De-serializers
 * [JSON.NET](https://www.newtonsoft.com/json) développé par le MIT
 * [JsonQ](http://ignitersworld.com/lab/jsonQ.html)
-#####Json libraries
+##### Json libraries
 you gonna have to find them by yourself with the help of your fellow devs
 
 
