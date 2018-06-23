@@ -29,7 +29,7 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
 ***
 * RAPIDE
     - syntaxe très simple **et** faible en poids/taille
-    - facile à utiliser
+    - facile à utiliser   
 * SUPPORT   
 &nbsp; &nbsp; compatible avec un grand nombre de navigateurs
 * SERVER PARSING   
