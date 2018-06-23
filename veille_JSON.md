@@ -24,9 +24,9 @@ His working path : from radio/television to Javascript's development to Paypal(p
 &nbsp; &nbsp; you must use protocols(like *Ajax*) to know if errors have been made through the parsing
 * SECURITY
     - browsers wrap the JSON response, they execute the call fonction
-    - makes the web-app hosting vulnerable
+    - makes the web-app hosting vulnerable   
 |**How to prevent it ?**|
-|-|
+|-----------------------|
 |use methods to secure cookies|
 |existing code testing tools|
 |user's access log managed|
