@@ -43,8 +43,8 @@ His working path : from radio/television to Javascript's development to Paypal(p
 *créé en 2002/2005* par **Douglas Crockford**   
 Son cheminement professionnel : a commencé par des études de radio/télévision, développé le langage Javascript et travaille aujourd'hui pour Paypal
 ![XML/JSON intérêt du public](https://cdn-images-1.medium.com/max/1600/1*cU8rwGI0WgtCWP91SIy3-w.png)
-#### Avantages
 ***
+#### Avantages
 * RAPIDE
     - syntaxe très simple **et** faible en poids/taille
     - facile à utiliser
@@ -56,6 +56,21 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
 &nbsp; &nbsp; excellent outil pour partager tous types de data
     + audio
     + video
-    + ... 
+    + ...
+*** 
 #### Désavantages
+* PAS DE GESTION D'ERREUR   
+&nbsp; &nbsp; on est obligé d'utiliser des protocoles(comme *Ajax*) si des erreurs ont été faites durant l'analyse/compilation/recompilation/transfert
+* SECURITE
+    - les navigateurs assemblent la réponse eux-mêmes, en exécutant la fonction d'appel
+    - cela rend l'hébergement de vos sites vulnérables à une grande variété d'attaques   
+
+|**Pour combattre ces failles, que puis-je faire ?**|
+|:-:|
+|utiliser des méthodes pour sécuriser les cookies|
+|utiliser des outils de test de codes déjà existants|
+|gérer proprement les comptes utilisateurs et leurs identifiants|
+|utiliser une API|
+|encore mieux, une API protégée par une clé, like [JWT](https://jwt.io/)|
+|coder soi-même la gestion d'erreurs|
 
