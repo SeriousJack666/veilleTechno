@@ -19,8 +19,8 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
 * FAST
     - very small syntax **and** light weighted
     - easy to use
-* SUPPORT
-    huge amount of browsers with compatibility
+* SUPPORT   
+&npsp; huge amount of browsers with compatibility
 * SERVER PARSING
     fast server-side parsing
 * SHARING DATA
