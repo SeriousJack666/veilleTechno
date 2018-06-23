@@ -21,12 +21,12 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
     - easy to use
 * SUPPORT   
 &nbsp; &nbsp; huge amount of browsers with compatibility
-* SERVER PARSING
-    fast server-side parsing
-* SHARING DATA
-    excellent tool for sharing all kinks of data
-        * audio
-        * video
-        * ... 
+* SERVER PARSING   
+&nbsp; &nbsp; fast server-side parsing
+* SHARING DATA   
+&nbsp; &nbsp; excellent tool for sharing all kinks of data
+    + audio
+    + video
+    + ... 
 #### Désavantages
 
