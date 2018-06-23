@@ -20,11 +20,11 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
     - very small syntax **and** light weighted
     - easy to use
 * SUPPORT
-    - huge amount of browsers with compatibility
+    huge amount of browsers with compatibility
 * SERVER PARSING
-    - fast server-side parsing
+    fast server-side parsing
 * SHARING DATA
-    - excellent tool for sharing all kinks of data
+    excellent tool for sharing all kinks of data
         * audio
         * video
         * ... 
