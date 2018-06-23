@@ -25,7 +25,7 @@ His working path : from radio/television to Javascript's development to Paypal(p
 * SECURITY
     - browsers wrap the JSON response, they execute the call fonction
     - makes the web-app hosting vulnerable   
----
+
 |**How to prevent it ?**|
 |:-:|
 |use methods to secure cookies|
@@ -37,7 +37,7 @@ His working path : from radio/television to Javascript's development to Paypal(p
 
 
 
-
+---
 ## Version française
 ### JavaScript Object Notation
 *créé en 2002/2005* par **Douglas Crockford**   
