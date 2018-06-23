@@ -20,7 +20,7 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
     - very small syntax **and** light weighted
     - easy to use
 * SUPPORT   
-&npsp; huge amount of browsers with compatibility
+&nbsp; &nbsp; huge amount of browsers with compatibility
 * SERVER PARSING
     fast server-side parsing
 * SHARING DATA
