@@ -25,6 +25,7 @@ His working path : from radio/television to Javascript's development to Paypal(p
 * SECURITY
     - browsers wrap the JSON response, they execute the call fonction
     - makes the web-app hosting vulnerable   
+***
 |**How to prevent it ?**|
 |:-:|
 |use methods to secure cookies|
