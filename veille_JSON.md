@@ -4,8 +4,8 @@
 *created in 2002/2005* by **Douglas Crockford**   
 His working path : from radio/television to Javascript's development to Paypal(present)
 ![XML/JSON public interest](https://cdn-images-1.medium.com/max/1600/1*cU8rwGI0WgtCWP91SIy3-w.png)
-#### Advantages
 ***
+#### Advantages
 * FAST
     - very small syntax **and** light weighted
     - easy to use
@@ -18,7 +18,24 @@ His working path : from radio/television to Javascript's development to Paypal(p
     + audio
     + video
     + ... 
+***
 #### Disadvantages
+* NO HERROR HANDLING   
+&nbsp; &nbsp; you must use protocols(like *Ajax*) to know if errors have been made through the parsing
+* SECURITY
+    - browsers wrap the JSON response, they execute the call fonction
+    - makes the web-app hosting vulnerable
+|**How to prevent it ?**|
+|-|
+|use methods to secure cookies|
+|existing code testing tools|
+|user's access log managed|
+|use an API|
+|even better, a token-based API [JWT](https://jwt.io/)|
+|implement error handling|
+
+
+
 ---
 ## Version française
 ### JavaScript Object Notation
@@ -29,7 +46,7 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
 ***
 * RAPIDE
     - syntaxe très simple **et** faible en poids/taille
-    - facile à utiliser   
+    - facile à utiliser
 * SUPPORT   
 &nbsp; &nbsp; compatible avec un grand nombre de navigateurs
 * SERVER PARSING   
