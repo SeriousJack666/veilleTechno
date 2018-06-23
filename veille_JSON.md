@@ -26,12 +26,12 @@ His working path : from radio/television to Javascript's development to Paypal(p
     - browsers wrap the JSON response, they execute the call fonction
     - makes the web-app hosting vulnerable   
 |**How to prevent it ?**|
-|-----------------------|
+|:-:|
 |use methods to secure cookies|
 |existing code testing tools|
 |user's access log managed|
 |use an API|
-|even better, a token-based API [JWT](https://jwt.io/)|
+|even better, a token-based API, like [JWT](https://jwt.io/)|
 |implement error handling|
 
 
