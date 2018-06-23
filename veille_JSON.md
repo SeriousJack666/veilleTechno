@@ -6,6 +6,7 @@ His working path : from radio/television to Javascript's development to Paypal(p
 ![XML/JSON public interest](https://cdn-images-1.medium.com/max/1600/1*cU8rwGI0WgtCWP91SIy3-w.png)
 #### Advantages
 ***
+
 #### Disadvantages
 ---
 ## Version française
@@ -14,5 +15,18 @@ His working path : from radio/television to Javascript's development to Paypal(p
 Son cheminement professionnel : a commencé par des études de radio/télévision, développé le langage Javascript et travaille aujourd'hui pour Paypal
 ![XML/JSON intérêt du public](https://cdn-images-1.medium.com/max/1600/1*cU8rwGI0WgtCWP91SIy3-w.png)
 #### Avantages
+***
+* FAST
+    - very small syntax **and** light weighted
+    - easy to use
+* SUPPORT
+    - huge amount of browsers with compatibility
+* SERVER PARSING
+    - fast server-side parsing
+* SHARING DATA
+    - excellent tool for sharing all kinks of data
+        * audio
+        * video
+        * ... 
 #### Désavantages
 
