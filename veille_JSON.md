@@ -60,7 +60,8 @@ Son cheminement professionnel : a commencé par des études de radio/télévisio
 *** 
 #### Désavantages
 * PAS DE GESTION D'ERREUR   
-&nbsp; &nbsp; on est obligé d'utiliser des protocoles(comme *Ajax*) si des erreurs ont été faites durant l'analyse/compilation/recompilation/transfert
+&nbsp; &nbsp; on est obligé d'utiliser des protocoles(comme *Ajax*)   
+&nbsp; &nbsp; si des erreurs ont été faites durant l'analyse/compilation/recompilation/transfert, c'est le seul moyen pour en être informé
 * SECURITE
     - les navigateurs assemblent la réponse eux-mêmes, en exécutant la fonction d'appel
     - cela rend l'hébergement de vos sites vulnérables à une grande variété d'attaques   
