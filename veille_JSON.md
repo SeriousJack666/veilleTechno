@@ -2,7 +2,8 @@
 ## English Version
 ### JavaScript Object Notation
 *created in 2002/2005* by **Douglas Crockford**   
-His working path : from radio/television to Javascript's development to Paypal(present)
+His working path :   
+from radio/television to Javascript's development to Paypal(present)
 ![XML/JSON public interest](https://cdn-images-1.medium.com/max/1600/1*cU8rwGI0WgtCWP91SIy3-w.png)
 ***
 #### Advantages
@@ -34,14 +35,21 @@ His working path : from radio/television to Javascript's development to Paypal(p
 |use an API|
 |even better, a token-based API, like [JWT](https://jwt.io/)|
 |implement error handling|
-
+***
+#### Usefool stuff 
+#####Serializers/De-serializers
+* [JSON.NET](https://www.newtonsoft.com/json) développé par le MIT
+* [JsonQ](http://ignitersworld.com/lab/jsonQ.html)
+#####Json libraries
+you gonna have to find them by yourself with the help of your fellow devs
 
 
 ---
 ## Version française
 ### JavaScript Object Notation
 *créé en 2002/2005* par **Douglas Crockford**   
-Son cheminement professionnel : a commencé par des études de radio/télévision, développé le langage Javascript et travaille aujourd'hui pour Paypal
+Son cheminement professionnel :   
+a commencé par des études de radio/télévision, développé le langage Javascript et travaille aujourd'hui pour Paypal
 ![XML/JSON intérêt du public](https://cdn-images-1.medium.com/max/1600/1*cU8rwGI0WgtCWP91SIy3-w.png)
 ***
 #### Avantages
