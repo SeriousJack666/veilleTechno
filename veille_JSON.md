@@ -5,7 +5,7 @@
 His working path : from radio/television to Javascript's development to Paypal(present)
 ![XML/JSON public interest](https://cdn-images-1.medium.com/max/1600/1*cU8rwGI0WgtCWP91SIy3-w.png)
 #### Advantages
-
+***
 #### Disadvantages
 ---
 ## Version française
