@@ -1,5 +1,5 @@
 # Veille JSON
-## English Version
+## English Version :smile:
 ### JavaScript Object Notation
 *created in 2002/2005* by **Douglas Crockford**   
 His working path :   
@@ -45,7 +45,7 @@ you gonna have to find them by yourself with the help of your fellow devs
 
 
 ---
-## Version française
+## Version française :smirk:
 ### JavaScript Object Notation
 *créé en 2002/2005* par **Douglas Crockford**   
 Son cheminement professionnel :   
